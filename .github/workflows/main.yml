@@ -27,5 +27,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: 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  # 此处修改为你的Secret名称
+          github_token: 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  # 此处修改为你的Secret名称
           publish_dir: ./dist
